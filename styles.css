@@ -168,12 +168,12 @@ header > .container {
 /* MENU */
 
 .menu {
-  background-color: #41a6de;
+  background-color: #a4b4bd9e;
   padding-bottom: 0;
 }
 
 .menu-icons{
-  color: #fedb0e;
+  color: #41a6de;
   font-size: 50px;
 }
 
@@ -182,11 +182,12 @@ header > .container {
   font-size: 25px;
   font-weight: 300;
   text-transform: uppercase;
+  color: #0a1c20;
 }
 
 .shop-info p,
 .shop-info address{
-  color: rgba(255,255,255,0.5);
+  color: #0a1c20;
 }
 
 hr{
@@ -234,7 +235,7 @@ hr{
 
 /* NAME GENERATOR */
 .generator{
-  background: #41a6de;
+  background: #a4b4bd9e;
 }
 
 .generator h1{
@@ -263,3 +264,5 @@ hr{
 .jumbotron{
   margin-top: 20px;
 }
+
+/* FOOTER */

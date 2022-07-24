@@ -231,3 +231,35 @@ hr{
   font-family: 'Teko', sans-serif;
   font-weight: 300;
 }
+
+/* NAME GENERATOR */
+.generator{
+  background: #41a6de;
+}
+
+.generator h1{
+  color: #0a1c20;
+  font-weight: 300;
+  font-family: 'Fjalla One', sans-serif;
+  margin-bottom: 20px;
+}
+
+.generator h2{
+  font-family: 'Teko', sans-serif;
+  color:#0a1c20;
+}
+.btn-generator{
+  width: 150px;
+  color: #0a1c20 !important;
+  transition: background-color 650ms;
+  margin: auto;
+}
+
+.btn-generator:hover{
+  color: #fff !important;
+  background-color: #f6343c;
+}
+
+.jumbotron{
+  margin-top: 20px;
+}
